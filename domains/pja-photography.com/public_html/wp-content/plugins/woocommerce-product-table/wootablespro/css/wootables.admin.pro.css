@@ -1,0 +1,119 @@
+.wtbpInputSmall {
+	width: 25px !important;
+	height: 25px !important;
+	padding-left: 3px !important;
+	padding-right: 3px !important;
+	text-align: center;
+}
+.setting-group-input {
+	display: inline-block;
+	vertical-align: top;
+}
+.setting-group-input .wtbpInputSmall:not(:last-child) {
+	border-right: none !important; 
+}
+.setting-group-input .wtbpInputSmall:focus {
+	border: 1px solid #03a9f4 !important;  
+}
+tr.wtbpCustomStyles {
+	padding: 6px 0;
+}
+.wtbpColorResultText {
+	width: 70px !important;
+	height: 25px !important;
+	margin: 0 !important;
+}
+.wtbpStyleColors {
+	padding: 0;
+	display: inline-flex;
+	vertical-align: top;
+}
+.wtbpStyleColors .wp-color-result-text {
+	display: none;
+}
+.wtbpStyleColors .wp-color-result {
+	width: 25px !important;
+	height: 25px !important;
+	min-height: 25px !important;
+	padding: 0 !important;
+	margin: 0;
+}
+.wtbpStyleColors .wp-picker-container {
+	min-width: 25px;
+	position: relative;
+}
+.wtbpStyleColors button {
+	margin: 0 !important;
+	display: inline !important;
+	background: #fff;
+	color: #fff;
+}
+.woobewoo-plugin .wtbpStyleColors .button:focus, .woobewoo-plugin .wtbpStyleColors .button:hover {
+    background: currentColor !important;
+    border: 1px solid #64808e !important;
+}
+.wtbpStyleColors .wp-picker-input-wrap {
+	display: none;
+}
+.wtbpLastLabel, .wtbpInnerLabel {
+	font-weight: normal;
+	line-height: 28px;
+	margin-bottom: 0;
+}
+.wtbpInnerLabel {
+	padding-left: 5px;
+}
+.wtbpStyleColors .wp-picker-holder {
+	left: initial;
+}
+.wtbpStyleGroup {
+	padding-bottom: 5px;
+}
+.wtbpStyleGroup select{
+	max-width: 100%;
+	margin-left: 0;
+}
+.wtbpStyleGroup .input-left {
+	max-width: 55%;
+	float: left;
+}
+.wtbpStyleGroup .input-right {
+	max-width: 40%;
+	float: right;
+}
+.wtbpStyleGroup:after {
+    clear: both;
+    content: " ";
+    display: table;
+}
+.wtbpRangeList {
+	margin-bottom: 5px;
+}
+.wtbpRangeList > div {
+    display: inline-block;
+}
+.wtbpRangeListHandler {
+    padding: 0px 8px;
+}
+.wtbpWarning {
+    border: 1px solid red!important;
+}
+#wtbpAutoCategoriesList {
+	width: 300px;
+}
+.wtbpMiniButton {
+    height: 13px;
+    border: none;
+    font-size: 10px;
+    line-height: normal;
+    background-color: #e2e7ea;
+}
+.wtbpMiniButton:hover{
+	color: #03a9f4;
+}
+.wtpbAutoCategories i {
+	align-self: center;
+}
+.woobewoo-plugin .acf-field label {
+    margin: 0;
+}

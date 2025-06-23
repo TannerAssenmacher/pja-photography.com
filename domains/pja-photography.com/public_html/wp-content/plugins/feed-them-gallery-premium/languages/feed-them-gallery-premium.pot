@@ -1,0 +1,1820 @@
+# Copyright (C) 2021
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Feed Them Gallery Premium 1.1.4\n"
+"Report-Msgid-Bugs-To: https://slickremix.com/\n"
+"POT-Creation-Date: 2020-11-03 21:20:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP-Translations (http://wp-translations.org/)\n"
+"Language-Team: WP-Translations <wpt@wp-translations.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: admin/template-settings-options.php:218
+#: includes/albums/album-options.php:122
+msgid "1"
+msgstr ""
+
+#: admin/template-settings-options.php:222
+#: admin/template-settings-options.php:266
+#: admin/template-settings-options.php:1030
+#: includes/albums/album-options.php:126 includes/albums/album-options.php:170
+#: includes/albums/album-options.php:833
+msgid "2"
+msgstr ""
+
+#: admin/template-settings-options.php:226
+#: admin/template-settings-options.php:270
+#: admin/template-settings-options.php:1035
+#: includes/albums/album-options.php:130 includes/albums/album-options.php:174
+#: includes/albums/album-options.php:838
+msgid "3"
+msgstr ""
+
+#: admin/template-settings-options.php:230
+#: admin/template-settings-options.php:274
+#: admin/template-settings-options.php:1040
+#: includes/albums/album-options.php:134 includes/albums/album-options.php:178
+#: includes/albums/album-options.php:843
+msgid "4"
+msgstr ""
+
+#: admin/template-settings-options.php:234
+#: admin/template-settings-options.php:278
+#: includes/albums/album-options.php:138 includes/albums/album-options.php:182
+msgid "5"
+msgstr ""
+
+#: admin/template-settings-options.php:238
+#: admin/template-settings-options.php:1050
+#: includes/albums/album-options.php:142 includes/albums/album-options.php:853
+msgid "6"
+msgstr ""
+
+#: admin/template-settings-options.php:242
+#: admin/template-settings-options.php:1055
+#: includes/albums/album-options.php:146 includes/albums/album-options.php:858
+msgid "7"
+msgstr ""
+
+#: admin/template-settings-options.php:246
+#: admin/template-settings-options.php:1060
+#: includes/albums/album-options.php:150 includes/albums/album-options.php:863
+msgid "8"
+msgstr ""
+
+#: admin/template-settings-options.php:1065
+#: includes/albums/album-options.php:868
+msgid "9"
+msgstr ""
+
+#: admin/clients/client-functions.php:25
+msgid "Client Albums"
+msgstr ""
+
+#: admin/clients/client-functions.php:30 includes/albums/albums-class.php:589
+msgid "Album"
+msgstr ""
+
+#: admin/clients/client-functions.php:31
+msgid "Actions"
+msgstr ""
+
+#: admin/clients/client-functions.php:46
+msgid "No albums Found"
+msgstr ""
+
+#: admin/settings/settings-functions.php:22
+msgid "Premium"
+msgstr ""
+
+#: admin/settings/settings-functions.php:36
+msgid "Album Invite"
+msgstr ""
+
+#: admin/settings/settings-functions.php:37
+msgid "Album Updated"
+msgstr ""
+
+#: admin/settings/settings-functions.php:54
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: admin/settings/settings-functions.php:59
+#: admin/template-settings-options.php:1365
+#: includes/albums/album-options.php:913
+msgid "Disable Right Click"
+msgstr ""
+
+#: admin/settings/settings-functions.php:62
+msgid ""
+"If enabled, the right click option will be disabled on all pages of your "
+"website."
+msgstr ""
+
+#: admin/settings/settings-functions.php:66
+msgid "Product Creation"
+msgstr ""
+
+#: admin/settings/settings-functions.php:69
+msgid "Do you wish to attach product to a category named after your gallery."
+msgstr ""
+
+#: admin/settings/settings-functions.php:73
+msgid "Add to Cart Button Action"
+msgstr ""
+
+#: admin/settings/settings-functions.php:76
+msgid "Take Customers to product page. (Doesn't add product to cart)"
+msgstr ""
+
+#: admin/settings/settings-functions.php:77
+msgid "Take user directly to checkout. Useful for variable products."
+msgstr ""
+
+#: admin/settings/settings-functions.php:78
+msgid ""
+"Add product to cart. (Doesn't redirect to checkout.) This will not work if "
+"your product has required variations."
+msgstr ""
+
+#: admin/settings/settings-functions.php:79
+msgid ""
+"Add product to cart and take user directly to checkout. This will not work "
+"if your product has required variations."
+msgstr ""
+
+#: admin/settings/settings-functions.php:100
+#: admin/settings/settings-functions.php:118
+msgid "Email Subject"
+msgstr ""
+
+#: admin/settings/settings-functions.php:101
+msgid "Enter the subject line for the album invite email. Template tags accepted."
+msgstr ""
+
+#: admin/settings/settings-functions.php:103
+#: admin/settings/settings-functions.php:121
+#: includes/emails/email-functions.php:114
+#: includes/emails/email-functions.php:169
+msgid "Your Album is Ready"
+msgstr ""
+
+#: admin/settings/settings-functions.php:108
+#: admin/settings/settings-functions.php:126
+msgid "Content"
+msgstr ""
+
+#: admin/settings/settings-functions.php:109
+msgid ""
+"Enter the text that is sent as an invite email to clients when their album "
+"is ready. HTML is accepted. Available template tags:"
+msgstr ""
+
+#: admin/settings/settings-functions.php:119
+msgid "Enter the subject line for the album updated email. Template tags accepted."
+msgstr ""
+
+#: admin/settings/settings-functions.php:127
+msgid ""
+"Enter the text that is sent to clients when their album has been updated. "
+"HTML is accepted. Available template tags:"
+msgstr ""
+
+#: admin/template-settings-options.php:72 includes/albums/album-options.php:62
+msgid "Layout Options"
+msgstr ""
+
+#: admin/template-settings-options.php:97 includes/albums/album-options.php:86
+msgid "Choose the gallery type%1$s View all Gallery %2$sDemos%3$s"
+msgstr ""
+
+#: admin/template-settings-options.php:109 includes/albums/album-options.php:98
+msgid "Responsive Image Gallery "
+msgstr ""
+
+#: admin/template-settings-options.php:113
+msgid "Image Post in Grid (Masonry)"
+msgstr ""
+
+#: admin/template-settings-options.php:130
+msgid "Show Photo Caption"
+msgstr ""
+
+#: admin/template-settings-options.php:137
+msgid "Title and Description"
+msgstr ""
+
+#: admin/template-settings-options.php:141
+msgid "Title"
+msgstr ""
+
+#: admin/template-settings-options.php:145
+msgid "Description"
+msgstr ""
+
+#: admin/template-settings-options.php:149
+#: admin/template-settings-options.php:1018
+#: includes/albums/album-options.php:821
+msgid "None"
+msgstr ""
+
+#: admin/template-settings-options.php:159
+msgid "Photo Caption Placement"
+msgstr ""
+
+#: admin/template-settings-options.php:166
+msgid "Caption Above Photo"
+msgstr ""
+
+#: admin/template-settings-options.php:170
+msgid "Caption Below Photo"
+msgstr ""
+
+#: admin/template-settings-options.php:206
+#: admin/template-settings-options.php:254
+#: includes/albums/album-options.php:110 includes/albums/album-options.php:158
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/template-settings-options.php:209
+#: admin/template-settings-options.php:257
+#: includes/albums/album-options.php:113 includes/albums/album-options.php:161
+msgid ""
+"%1$sNOTE:%2$s Using the Columns option will make this gallery fully "
+"responsive and it will adapt in size to your containers width. Choose the "
+"Number of Columns and Space between each image below."
+msgstr ""
+
+#: admin/template-settings-options.php:286
+#: admin/template-settings-options.php:376
+#: includes/albums/album-options.php:190 includes/albums/album-options.php:259
+msgid "Space between Images"
+msgstr ""
+
+#: admin/template-settings-options.php:293
+#: includes/albums/album-options.php:197
+msgid "1px"
+msgstr ""
+
+#: admin/template-settings-options.php:297
+#: includes/albums/album-options.php:201
+msgid "2px"
+msgstr ""
+
+#: admin/template-settings-options.php:301
+#: includes/albums/album-options.php:205
+msgid "3px"
+msgstr ""
+
+#: admin/template-settings-options.php:305
+#: includes/albums/album-options.php:209
+msgid "4px"
+msgstr ""
+
+#: admin/template-settings-options.php:309
+#: admin/template-settings-options.php:2020
+#: includes/albums/album-options.php:213
+msgid "5px"
+msgstr ""
+
+#: admin/template-settings-options.php:313
+#: admin/template-settings-options.php:994
+#: admin/template-settings-options.php:1558
+#: includes/albums/album-options.php:217 includes/albums/album-options.php:797
+#: includes/albums/album-options.php:1095
+msgid "10px"
+msgstr ""
+
+#: admin/template-settings-options.php:317
+#: includes/albums/album-options.php:221
+msgid "15px"
+msgstr ""
+
+#: admin/template-settings-options.php:321
+#: includes/albums/album-options.php:225
+msgid "20px"
+msgstr ""
+
+#: admin/template-settings-options.php:331
+#: includes/albums/album-options.php:235
+msgid ""
+"Force Columns%1$s Yes, will force image columns. No, will allow the images "
+"to be resposive for smaller devices%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:341
+#: admin/template-settings-options.php:435
+#: admin/template-settings-options.php:460
+#: admin/template-settings-options.php:485
+#: admin/template-settings-options.php:602
+#: admin/template-settings-options.php:679
+#: admin/template-settings-options.php:732
+#: admin/template-settings-options.php:1123
+#: admin/template-settings-options.php:1161
+#: admin/template-settings-options.php:1187
+#: admin/template-settings-options.php:1372
+#: admin/template-settings-options.php:1392
+#: admin/template-settings-options.php:1617
+#: admin/template-settings-options.php:1741
+#: admin/template-settings-options.php:1829
+#: admin/template-settings-options.php:1850
+#: includes/albums/album-options.php:245 includes/albums/album-options.php:370
+#: includes/albums/album-options.php:482 includes/albums/album-options.php:534
+#: includes/albums/album-options.php:920 includes/albums/album-options.php:940
+#: includes/albums/album-options.php:1154
+#: includes/albums/album-options.php:1274
+msgid "No"
+msgstr ""
+
+#: admin/template-settings-options.php:345
+#: admin/template-settings-options.php:431
+#: admin/template-settings-options.php:456
+#: admin/template-settings-options.php:481
+#: admin/template-settings-options.php:598
+#: admin/template-settings-options.php:675
+#: admin/template-settings-options.php:736
+#: admin/template-settings-options.php:1119
+#: admin/template-settings-options.php:1165
+#: admin/template-settings-options.php:1191
+#: admin/template-settings-options.php:1376
+#: admin/template-settings-options.php:1396
+#: admin/template-settings-options.php:1621
+#: admin/template-settings-options.php:1737
+#: admin/template-settings-options.php:1833
+#: admin/template-settings-options.php:1854
+#: includes/albums/album-options.php:249 includes/albums/album-options.php:374
+#: includes/albums/album-options.php:478 includes/albums/album-options.php:538
+#: includes/albums/album-options.php:924 includes/albums/album-options.php:944
+#: includes/albums/album-options.php:1158
+#: includes/albums/album-options.php:1270
+msgid "Yes"
+msgstr ""
+
+#: admin/template-settings-options.php:380
+#: includes/albums/album-options.php:263 includes/albums/album-options.php:439
+#: includes/albums/album-options.php:453
+msgid "for example"
+msgstr ""
+
+#: admin/template-settings-options.php:390
+msgid "User Name%1$s Company or user who took this photo%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:405
+msgid "User Custom Link%1$s Custom about page or social media page link%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:421
+msgid "Show Share Options%1$s Appears in the bottom left corner and in popup%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:446
+msgid "Show Date%1$s Date image was uploaded%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:471
+msgid "Show Wordpress Icon%1$s Appears in the top left corner%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:507
+#: admin/template-settings-options.php:617
+#: includes/albums/album-options.php:273
+msgid ""
+"%1$sNOTE:%2$s If for some reason the image size you choose does not appear "
+"on the front end you may need to regenerate your images. This free plugin "
+"called %3$sRegenerate Thumbnails%4$s does an amazing job of that."
+msgstr ""
+
+#: admin/template-settings-options.php:513
+#: includes/albums/album-options.php:279
+msgid "Image Size on Page"
+msgstr ""
+
+#: admin/template-settings-options.php:526
+#: includes/albums/album-options.php:292
+msgid "Max-width for Images"
+msgstr ""
+
+#: admin/template-settings-options.php:536
+#: includes/albums/album-options.php:302
+msgid "Gallery Max-width"
+msgstr ""
+
+#: admin/template-settings-options.php:549
+#: includes/albums/album-options.php:315
+msgid ""
+"Gallery Height%1$s Set the height to have a scrolling feed. Only works for "
+"Responsive Image Gallery and the Image Post option.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:564
+#: includes/albums/album-options.php:330
+msgid "Gallery Margin%1$s To center feed type auto%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:577
+#: includes/albums/album-options.php:343
+msgid "Gallery Padding"
+msgstr ""
+
+#: admin/template-settings-options.php:589
+#: admin/template-settings-options.php:1263
+msgid "Popup"
+msgstr ""
+
+#: admin/template-settings-options.php:591
+msgid "Display Photos in Popup"
+msgstr ""
+
+#: admin/template-settings-options.php:623
+msgid "Image Size in Popup"
+msgstr ""
+
+#: admin/template-settings-options.php:635
+msgid "Popup Options"
+msgstr ""
+
+#: admin/template-settings-options.php:642
+msgid "Default"
+msgstr ""
+
+#: admin/template-settings-options.php:646
+msgid "Full Width & Info below Photo"
+msgstr ""
+
+#: admin/template-settings-options.php:650
+msgid "Full Width, Photo Only"
+msgstr ""
+
+#: admin/template-settings-options.php:662
+#: includes/albums/album-options.php:465
+msgid "Show Image Count"
+msgstr ""
+
+#: admin/template-settings-options.php:668
+#: includes/albums/album-options.php:471
+msgid ""
+"%1$sNOTE:%2$s This will display the number of images you have in your "
+"gallery, and will appear centered at the bottom of your image feed. For "
+"Example: 4 of 50 (4 being the number of images you have loaded on the page "
+"already and 50 being the total number of images in the gallery."
+msgstr ""
+
+#: admin/template-settings-options.php:694
+#: includes/albums/album-options.php:497
+msgid "Order of Images"
+msgstr ""
+
+#: admin/template-settings-options.php:696
+#: includes/albums/album-options.php:499
+msgid "Choose the order of Images"
+msgstr ""
+
+#: admin/template-settings-options.php:703
+#: includes/albums/album-options.php:510
+msgid "The order you manually sorted images"
+msgstr ""
+
+#: admin/template-settings-options.php:707
+#: includes/albums/album-options.php:514
+msgid "Sort alphabetically (A-Z)"
+msgstr ""
+
+#: admin/template-settings-options.php:711
+#: includes/albums/album-options.php:506
+msgid "Sort by date"
+msgstr ""
+
+#: admin/template-settings-options.php:719
+msgid "Display Options"
+msgstr ""
+
+#: admin/template-settings-options.php:722
+msgid ""
+"Display Options%1$s Display a select option for this gallery so your users "
+"can select the sort order.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:744
+#: includes/albums/album-options.php:546
+msgid "Position of Select Option"
+msgstr ""
+
+#: admin/template-settings-options.php:751
+#: admin/template-settings-options.php:977
+#: admin/template-settings-options.php:1648
+#: includes/albums/album-options.php:553 includes/albums/album-options.php:780
+#: includes/albums/album-options.php:1185
+msgid "Top"
+msgstr ""
+
+#: admin/template-settings-options.php:755
+#: admin/template-settings-options.php:973
+#: admin/template-settings-options.php:1652
+#: includes/albums/album-options.php:557 includes/albums/album-options.php:776
+#: includes/albums/album-options.php:1189
+msgid "Bottom"
+msgstr ""
+
+#: admin/template-settings-options.php:759
+#: admin/template-settings-options.php:1656
+#: includes/albums/album-options.php:561 includes/albums/album-options.php:1193
+msgid "Top and Bottom"
+msgstr ""
+
+#: admin/template-settings-options.php:770
+#: includes/albums/album-options.php:572
+msgid "Align Select Option"
+msgstr ""
+
+#: admin/template-settings-options.php:777
+#: admin/template-settings-options.php:954
+#: admin/template-settings-options.php:1675
+#: admin/template-settings-options.php:1756
+#: admin/template-settings-options.php:1926
+#: includes/albums/album-options.php:579 includes/albums/album-options.php:757
+#: includes/albums/album-options.php:1208
+#: includes/albums/album-options.php:1289
+msgid "Left"
+msgstr ""
+
+#: admin/template-settings-options.php:781
+#: admin/template-settings-options.php:958
+#: admin/template-settings-options.php:1679
+#: admin/template-settings-options.php:1760
+#: admin/template-settings-options.php:1930
+#: includes/albums/album-options.php:583 includes/albums/album-options.php:761
+#: includes/albums/album-options.php:1212
+#: includes/albums/album-options.php:1293
+msgid "Right"
+msgstr ""
+
+#: admin/template-settings-options.php:792
+msgid "Free Image Download"
+msgstr ""
+
+#: admin/template-settings-options.php:796
+msgid ""
+"%1$sNOTE:%2$s To turn this option on simply choose an image size. A "
+"download icon will appear under the image to the right and in the popup. If "
+"for some reason the image size you choose does not appear on the front end "
+"you may need to regenerate your images. This free plugin called "
+"%3$sRegenerate Thumbnails%4$s does an amazing job of that."
+msgstr ""
+
+#: admin/template-settings-options.php:802
+msgid "Choose the size"
+msgstr ""
+
+#: admin/template-settings-options.php:814
+msgid "Free Download Text"
+msgstr ""
+
+#: admin/template-settings-options.php:841
+#: includes/albums/album-options.php:608
+msgid "Feed Color Options"
+msgstr ""
+
+#: admin/template-settings-options.php:851
+#: admin/template-settings-options.php:1000
+#: includes/albums/album-options.php:618 includes/albums/album-options.php:655
+#: includes/albums/album-options.php:803
+msgid "Background Color"
+msgstr ""
+
+#: admin/template-settings-options.php:857
+#: admin/template-settings-options.php:869
+#: admin/template-settings-options.php:881
+#: admin/template-settings-options.php:937
+#: admin/template-settings-options.php:1288
+#: admin/template-settings-options.php:1307
+#: admin/template-settings-options.php:1326
+#: admin/template-settings-options.php:1695
+#: admin/template-settings-options.php:1706
+#: admin/template-settings-options.php:1718
+#: admin/template-settings-options.php:1774
+#: admin/template-settings-options.php:1914
+#: admin/template-settings-options.php:1963
+#: admin/template-settings-options.php:2010
+#: includes/albums/album-options.php:624 includes/albums/album-options.php:636
+#: includes/albums/album-options.php:648 includes/albums/album-options.php:661
+#: includes/albums/album-options.php:673 includes/albums/album-options.php:685
+#: includes/albums/album-options.php:740 includes/albums/album-options.php:1228
+#: includes/albums/album-options.php:1239
+#: includes/albums/album-options.php:1251
+#: includes/albums/album-options.php:1307
+msgid "#ddd"
+msgstr ""
+
+#: admin/template-settings-options.php:863
+#: includes/albums/album-options.php:630
+msgid "Grid Posts Background Color"
+msgstr ""
+
+#: admin/template-settings-options.php:875
+#: includes/albums/album-options.php:642
+msgid "Border Bottom Color"
+msgstr ""
+
+#: admin/template-settings-options.php:887
+msgid "Gallery Options Only"
+msgstr ""
+
+#: admin/template-settings-options.php:889
+#: includes/albums/album-options.php:692
+msgid "Text Size"
+msgstr ""
+
+#: admin/template-settings-options.php:894
+#: includes/albums/album-options.php:697
+msgid "13px"
+msgstr ""
+
+#: admin/template-settings-options.php:899
+#: includes/albums/album-options.php:667 includes/albums/album-options.php:702
+msgid "Text Color"
+msgstr ""
+
+#: admin/template-settings-options.php:905
+#: includes/albums/album-options.php:708
+msgid "#fff"
+msgstr ""
+
+#: admin/template-settings-options.php:911
+#: includes/albums/album-options.php:714
+msgid "Text Weight"
+msgstr ""
+
+#: admin/template-settings-options.php:919
+#: includes/albums/album-options.php:722
+msgid "Bold"
+msgstr ""
+
+#: admin/template-settings-options.php:923
+#: includes/albums/album-options.php:726
+msgid "Normal"
+msgstr ""
+
+#: admin/template-settings-options.php:931
+#: includes/albums/album-options.php:734
+msgid "Hover Color"
+msgstr ""
+
+#: admin/template-settings-options.php:942
+#: includes/albums/album-options.php:745
+msgid "Align Link"
+msgstr ""
+
+#: admin/template-settings-options.php:950
+#: admin/template-settings-options.php:1934
+#: includes/albums/album-options.php:753
+msgid "Center"
+msgstr ""
+
+#: admin/template-settings-options.php:965
+#: includes/albums/album-options.php:768
+msgid "Position Link"
+msgstr ""
+
+#: admin/template-settings-options.php:981
+#: includes/albums/album-options.php:784
+msgid "Middle (Does not work with Masonry Layout)"
+msgstr ""
+
+#: admin/template-settings-options.php:989
+#: includes/albums/album-options.php:792
+msgid "Text Padding"
+msgstr ""
+
+#: admin/template-settings-options.php:1006
+#: includes/albums/album-options.php:809
+msgid "#000000"
+msgstr ""
+
+#: admin/template-settings-options.php:1011
+#: includes/albums/album-options.php:814
+msgid "Background Transparency"
+msgstr ""
+
+#: admin/template-settings-options.php:1022
+#: includes/albums/album-options.php:825
+msgid "Hide Background Color"
+msgstr ""
+
+#: admin/template-settings-options.php:1026
+#: includes/albums/album-options.php:829
+msgid "1 ( Very Transparent )"
+msgstr ""
+
+#: admin/template-settings-options.php:1045
+#: includes/albums/album-options.php:848
+msgid "5 ( Default )"
+msgstr ""
+
+#: admin/template-settings-options.php:1070
+#: includes/albums/album-options.php:873
+msgid "10 ( No Transparency )"
+msgstr ""
+
+#: admin/template-settings-options.php:1097
+msgid "Woocommerce Options"
+msgstr ""
+
+#: admin/template-settings-options.php:1109
+msgid ""
+"Show Cart Icon%1$s Appears on the page and popup. Only appears in popup for "
+"the Responsive Image Gallery.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1134
+msgid ""
+"Cart Icon Purchase Link text%1$s The default word is Purchase or add a "
+"single space to show the Cart Icon only.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1141
+msgid "Purchase"
+msgstr ""
+
+#: admin/template-settings-options.php:1151
+msgid ""
+"Hide Add to Cart Button%1$s This will hide the add to cart button and any "
+"variations on the page and popup so you can direct users to your default "
+"shop product.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1177
+msgid ""
+"Show Cart Icon Over Image%1$s Only works for Responsive Image Galleries. "
+"This will show a cart icon over top of the image.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1203
+msgid ""
+"Position the Cart Icon Over Image%1$sChoose the positioning of the Cart "
+"Icon over images.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1213
+#: admin/template-settings-options.php:1528
+#: includes/albums/album-options.php:1065
+msgid "Top Left"
+msgstr ""
+
+#: admin/template-settings-options.php:1217
+#: admin/template-settings-options.php:1532
+#: includes/albums/album-options.php:1069
+msgid "Top Center"
+msgstr ""
+
+#: admin/template-settings-options.php:1221
+#: admin/template-settings-options.php:1524
+#: includes/albums/album-options.php:1061
+msgid "Top Right"
+msgstr ""
+
+#: admin/template-settings-options.php:1225
+msgid "Middle Right"
+msgstr ""
+
+#: admin/template-settings-options.php:1229
+#: admin/template-settings-options.php:1536
+#: includes/albums/album-options.php:1073
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/template-settings-options.php:1233
+#: admin/template-settings-options.php:1544
+#: includes/albums/album-options.php:1081
+msgid "Bottom Center"
+msgstr ""
+
+#: admin/template-settings-options.php:1237
+#: admin/template-settings-options.php:1540
+#: includes/albums/album-options.php:1077
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/template-settings-options.php:1241
+msgid "Middle Left"
+msgstr ""
+
+#: admin/template-settings-options.php:1253
+msgid ""
+"Popup or Add to Cart link%1$s Choose to open the popup or take the user to "
+"your product or cart. Add to cart link options are on the Settings page of "
+"our plugin.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1267
+msgid "Add to Cart Link"
+msgstr ""
+
+#: admin/template-settings-options.php:1279
+msgid ""
+"Cart Icon Background Color%1$sBackground Color for is only for the Cart "
+"Icon over responsive gallery image.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1298
+msgid ""
+"Cart Icon Color%1$sColor is only for the Cart Icon over responsive gallery "
+"image.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1317
+msgid ""
+"Cart Icon Hover Color%1$sHover Color is only for the Cart Icon over "
+"responsive gallery image.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1349
+#: includes/albums/album-options.php:897
+msgid "Watermark Options"
+msgstr ""
+
+#: admin/template-settings-options.php:1360
+#: includes/albums/album-options.php:908
+msgid ""
+"%1$sNOTE:%2$s This option will disable the right click option on desktop "
+"computers so people cannot look at the source code. This is not fail safe "
+"but for the vast majority this is enough to deter people from trying to "
+"find the image source."
+msgstr ""
+
+#: admin/template-settings-options.php:1385
+#: includes/albums/album-options.php:933
+msgid "Use Options Below"
+msgstr ""
+
+#: admin/template-settings-options.php:1407
+#: includes/albums/album-options.php:955
+msgid ""
+"%1$sNOTE:%2$s These option only allow a watermark overlay. If you need to "
+"permanently watermark your images please do so in your gallery. Upload the "
+"exact image size you want to display, we will not rescale the image in "
+"anyway."
+msgstr ""
+
+#: admin/template-settings-options.php:1411
+#: includes/albums/album-options.php:959
+msgid "Watermark Image"
+msgstr ""
+
+#: admin/template-settings-options.php:1416
+#: includes/albums/album-options.php:964
+msgid "Upload or Choose Watermark"
+msgstr ""
+
+#: admin/template-settings-options.php:1454
+#: includes/albums/album-options.php:1002
+msgid "Watermark Type"
+msgstr ""
+
+#: admin/template-settings-options.php:1461
+#: includes/albums/album-options.php:1009
+msgid "Watermark Overlay Image (Does not Imprint logo on Image)"
+msgstr ""
+
+#: admin/template-settings-options.php:1471
+#: includes/albums/album-options.php:1019
+msgid "Overlay Options"
+msgstr ""
+
+#: admin/template-settings-options.php:1478
+msgid "Select an Option"
+msgstr ""
+
+#: admin/template-settings-options.php:1482
+msgid "Watermark in popup only"
+msgstr ""
+
+#: admin/template-settings-options.php:1486
+#: includes/albums/album-options.php:1026
+msgid "Watermark for image on page only"
+msgstr ""
+
+#: admin/template-settings-options.php:1490
+msgid "Watermark for image on page and popup"
+msgstr ""
+
+#: admin/template-settings-options.php:1500
+#: includes/albums/album-options.php:1037
+msgid "Image Opacity"
+msgstr ""
+
+#: admin/template-settings-options.php:1506
+#: includes/albums/album-options.php:1043
+msgid ".5 for example"
+msgstr ""
+
+#: admin/template-settings-options.php:1513
+#: includes/albums/album-options.php:1050
+msgid "Watermark Position"
+msgstr ""
+
+#: admin/template-settings-options.php:1520
+#: includes/albums/album-options.php:1057
+msgid "Centered"
+msgstr ""
+
+#: admin/template-settings-options.php:1552
+#: includes/albums/album-options.php:1089
+msgid "Watermark Margin"
+msgstr ""
+
+#: admin/template-settings-options.php:1580
+#: admin/template-settings-page-class.php:227
+#: includes/albums/album-options.php:1117 includes/albums/albums-class.php:981
+msgid "Pagination"
+msgstr ""
+
+#: admin/template-settings-options.php:1604
+#: includes/albums/album-options.php:1141
+msgid "Display Pagination"
+msgstr ""
+
+#: admin/template-settings-options.php:1607
+#: includes/albums/album-options.php:1144
+msgid ""
+"Display Pagination%1$s Pagination unavailable while using the Load More "
+"option.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1631
+#: includes/albums/album-options.php:387 includes/albums/album-options.php:1168
+msgid "# of Photos Visible"
+msgstr ""
+
+#: admin/template-settings-options.php:1641
+#: includes/albums/album-options.php:1178
+msgid "Position of Pagination"
+msgstr ""
+
+#: admin/template-settings-options.php:1668
+#: includes/albums/album-options.php:1201
+msgid "Align Pagination"
+msgstr ""
+
+#: admin/template-settings-options.php:1689
+#: includes/albums/album-options.php:1222
+msgid "Button Color"
+msgstr ""
+
+#: admin/template-settings-options.php:1700
+#: includes/albums/album-options.php:1233
+msgid "Active Button"
+msgstr ""
+
+#: admin/template-settings-options.php:1712
+#: includes/albums/album-options.php:1245
+msgid "Numbers Color"
+msgstr ""
+
+#: admin/template-settings-options.php:1723
+msgid "Image Count Options"
+msgstr ""
+
+#: admin/template-settings-options.php:1727
+#: includes/albums/album-options.php:1260
+msgid "Display Image Count%1$s For Example: Showing 1-50 of 800 Images.%2$s"
+msgstr ""
+
+#: admin/template-settings-options.php:1749
+#: includes/albums/album-options.php:1282
+msgid "Align Image Count"
+msgstr ""
+
+#: admin/template-settings-options.php:1768
+#: includes/albums/album-options.php:1301
+msgid "Image count Text Color"
+msgstr ""
+
+#: admin/template-settings-options.php:1798
+msgid "Tags Select Search"
+msgstr ""
+
+#: admin/template-settings-options.php:1822
+msgid "Show Select Option Search"
+msgstr ""
+
+#: admin/template-settings-options.php:1841
+msgid "Image Tags"
+msgstr ""
+
+#: admin/template-settings-options.php:1843
+msgid "Show Image Tags"
+msgstr ""
+
+#: admin/template-settings-options.php:1862
+msgid "Tags Separator"
+msgstr ""
+
+#: admin/template-settings-options.php:1869
+msgid "Comma - ie* One, Two, Three"
+msgstr ""
+
+#: admin/template-settings-options.php:1873
+msgid "Period - ie* One &#46; Two &#46; Three"
+msgstr ""
+
+#: admin/template-settings-options.php:1877
+msgid "Bullet - ie* One &bull; Two &bull; Three"
+msgstr ""
+
+#: admin/template-settings-options.php:1881
+msgid "Pipe - ie* One | Two | Three"
+msgstr ""
+
+#: admin/template-settings-options.php:1885
+msgid "Space - ie* One Two Three"
+msgstr ""
+
+#: admin/template-settings-options.php:1889
+msgid "Dash - ie* One - Two - Three"
+msgstr ""
+
+#: admin/template-settings-options.php:1897
+msgid "Link Font Size"
+msgstr ""
+
+#: admin/template-settings-options.php:1902
+#: admin/template-settings-options.php:1999
+msgid "12px"
+msgstr ""
+
+#: admin/template-settings-options.php:1908
+msgid "Link Color"
+msgstr ""
+
+#: admin/template-settings-options.php:1919
+msgid "Align"
+msgstr ""
+
+#: admin/template-settings-options.php:1955
+msgid "Image Tags Background Wrap"
+msgstr ""
+
+#: admin/template-settings-options.php:1957
+msgid "Color"
+msgstr ""
+
+#: admin/template-settings-options.php:1970
+msgid "Padding"
+msgstr ""
+
+#: admin/template-settings-options.php:1975
+msgid "18px"
+msgstr ""
+
+#: admin/template-settings-options.php:1981
+msgid "Customize the word, Tags:"
+msgstr ""
+
+#: admin/template-settings-options.php:1983
+msgid "Change Tags Text"
+msgstr ""
+
+#: admin/template-settings-options.php:1988
+msgid "Tags:"
+msgstr ""
+
+#: admin/template-settings-options.php:1994
+msgid "Font Size"
+msgstr ""
+
+#: admin/template-settings-options.php:2004
+msgid "Font Color"
+msgstr ""
+
+#: admin/template-settings-options.php:2015
+msgid " Margin Right"
+msgstr ""
+
+#: admin/template-settings-page-class.php:145
+#: admin/template-settings-page-class.php:146
+msgid "Tags Settings"
+msgstr ""
+
+#: admin/template-settings-page-class.php:174
+#: includes/albums/albums-class.php:890
+msgid "Feed Them Gallery Settings"
+msgstr ""
+
+#: admin/template-settings-page-class.php:199
+#: includes/albums/albums-class.php:960
+msgid "Layout"
+msgstr ""
+
+#: admin/template-settings-page-class.php:206
+#: includes/albums/albums-class.php:967
+msgid "Colors"
+msgstr ""
+
+#: admin/template-settings-page-class.php:213
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/template-settings-page-class.php:220
+#: includes/albums/albums-class.php:974
+msgid "Watermark"
+msgstr ""
+
+#: admin/template-settings-page-class.php:234
+msgid "Tags"
+msgstr ""
+
+#: admin/template-settings-page-class.php:364
+#: admin/template-settings-page-class.php:392
+#: includes/albums/albums-class.php:1253 includes/albums/albums-class.php:1282
+msgid "Additional Global options available on the %1$sSettings Page%2$s"
+msgstr ""
+
+#: admin/template-settings-page-class.php:427
+#: admin/template-settings-page-class.php:502
+#: admin/template-settings-page-class.php:537
+#: includes/albums/albums-class.php:1314 includes/albums/albums-class.php:1350
+msgid ""
+"Please %1$screate a ticket%2$s if you are experiencing trouble and one of "
+"our team members will be happy to assist you."
+msgstr ""
+
+#: admin/template-settings-page-class.php:617
+#: admin/template-settings-page-class.php:650
+#: admin/template-settings-page-class.php:682
+#: includes/albums/albums-class.php:1613
+msgid "Choose an option"
+msgstr ""
+
+#: admin/template-settings-page-class.php:632
+#: admin/template-settings-page-class.php:665
+#: admin/template-settings-page-class.php:697
+#: includes/albums/albums-class.php:1633
+msgid "full"
+msgstr ""
+
+#: feed-them-gallery-premium.php:201
+msgid ""
+"Feed Them Gallery - Premium has been deactivated as it requires that Feed "
+"Them Gallery be installed and activated."
+msgstr ""
+
+#: feed-them-gallery-premium.php:203
+msgid ""
+"Feed Them gallery - Premium has been deactivated as it requires Feed Them "
+"Gallery version %s and higher."
+msgstr ""
+
+#: includes/albums/album-options.php:102
+msgid "Image Gallery Collage (Masonry)"
+msgstr ""
+
+#: includes/albums/album-options.php:356
+msgid "Load More Images"
+msgstr ""
+
+#: includes/albums/album-options.php:360
+msgid ""
+"Load More Button%1$s Load More unavailable while using the Pagination "
+"option.%2$s"
+msgstr ""
+
+#: includes/albums/album-options.php:403
+msgid "Load More Style"
+msgstr ""
+
+#: includes/albums/album-options.php:409
+msgid ""
+"%1$sNOTE:%2$s The Button option will show a \"Load More Posts\" button "
+"under your feed. The AutoScroll option will load more posts when you reach "
+"the bottom of the feed. AutoScroll ONLY works if you've filled in a Fixed "
+"Height for your feed."
+msgstr ""
+
+#: includes/albums/album-options.php:416
+msgid "Button"
+msgstr ""
+
+#: includes/albums/album-options.php:420
+msgid "AutoScroll"
+msgstr ""
+
+#: includes/albums/album-options.php:432
+msgid "Load more Button Width%1$s Leave blank for auto width%2$s"
+msgstr ""
+
+#: includes/albums/album-options.php:449
+msgid "Load more Button Margin"
+msgstr ""
+
+#: includes/albums/album-options.php:524
+msgid ""
+"Display Options%1$s Display a select option for this gallery so your users "
+"can select the sort order. Does not work with Loadmore button, only works "
+"with Pagination.%2$s"
+msgstr ""
+
+#: includes/albums/album-options.php:653
+msgid "Loadmore Button"
+msgstr ""
+
+#: includes/albums/album-options.php:679
+msgid "Image Count Text Color"
+msgstr ""
+
+#: includes/albums/album-options.php:690
+msgid "Link to Gallery"
+msgstr ""
+
+#: includes/albums/album-options.php:1256
+msgid "Image Count  Options"
+msgstr ""
+
+#: includes/albums/album-options.php:1327
+msgid "Client Options"
+msgstr ""
+
+#: includes/albums/album-options.php:1333 includes/albums/albums-class.php:987
+msgid "Clients"
+msgstr ""
+
+#: includes/albums/album-options.php:1343
+msgid "Album Clients"
+msgstr ""
+
+#: includes/albums/album-options.php:1347
+msgid "Clients Manager Required"
+msgstr ""
+
+#: includes/albums/albums-class.php:225
+msgid ""
+"Please purchase, install and activate <a href=\"%s\" "
+"target\"_blank\">%s</a> for these additional awesome features!"
+msgstr ""
+
+#: includes/albums/albums-class.php:359
+msgid ""
+"The following Galleries have been added to this album. Please click the "
+"Publish or Update button to see your changes."
+msgstr ""
+
+#: includes/albums/albums-class.php:386
+msgid ""
+"No new Galleries in this Album. Please create at least 1 new gallery to "
+"attach to this album."
+msgstr ""
+
+#: includes/albums/albums-class.php:426
+msgid ""
+" The following Galleries have been removed from this album. Please click "
+"the Publish or Update button to see your changes."
+msgstr ""
+
+#: includes/albums/albums-class.php:455
+msgid ""
+"No Galleries selected to delete. Please check the box on any gallery then "
+"delete it."
+msgstr ""
+
+#: includes/albums/albums-class.php:473
+msgid "Feed Them Gallery Thumb"
+msgstr ""
+
+#: includes/albums/albums-class.php:518
+msgid "oops something isn't right."
+msgstr ""
+
+#: includes/albums/albums-class.php:521
+msgid "No Images attached to this post."
+msgstr ""
+
+#: includes/albums/albums-class.php:548
+msgid "This ID does not exist anymore"
+msgstr ""
+
+#: includes/albums/albums-class.php:585 includes/albums/albums-class.php:587
+#: includes/albums/albums-class.php:588
+msgid "Albums"
+msgstr ""
+
+#: includes/albums/albums-class.php:590
+msgid "Add Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:591
+msgid "Add New Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:592 includes/albums/albums-class.php:845
+msgid "Edit Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:593
+msgid "New Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:594
+msgid "View Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:595
+msgid "Search Albums"
+msgstr ""
+
+#: includes/albums/albums-class.php:596
+msgid "No Albums Found"
+msgstr ""
+
+#: includes/albums/albums-class.php:597
+msgid "No Albums Found In Trash"
+msgstr ""
+
+#: includes/albums/albums-class.php:636 includes/albums/albums-class.php:646
+msgid "Categories"
+msgstr ""
+
+#: includes/albums/albums-class.php:637
+msgid "Category"
+msgstr ""
+
+#: includes/albums/albums-class.php:638
+msgid "Search Categories"
+msgstr ""
+
+#: includes/albums/albums-class.php:639
+msgid "All Categories"
+msgstr ""
+
+#: includes/albums/albums-class.php:640
+msgid "Parent Category"
+msgstr ""
+
+#: includes/albums/albums-class.php:641
+msgid "Parent Category:"
+msgstr ""
+
+#: includes/albums/albums-class.php:642
+msgid "Edit Category"
+msgstr ""
+
+#: includes/albums/albums-class.php:643
+msgid "Update Category"
+msgstr ""
+
+#: includes/albums/albums-class.php:644
+msgid "Add New Category"
+msgstr ""
+
+#: includes/albums/albums-class.php:645
+msgid "New Category Name"
+msgstr ""
+
+#: includes/albums/albums-class.php:707 includes/albums/albums-class.php:710
+msgid "Album updated."
+msgstr ""
+
+#: includes/albums/albums-class.php:708
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/albums/albums-class.php:709
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/albums/albums-class.php:712
+#. translators: %s: date and time of the revision
+msgid "Response restored to revision from %s"
+msgstr ""
+
+#: includes/albums/albums-class.php:713
+msgid "Album created."
+msgstr ""
+
+#: includes/albums/albums-class.php:714
+msgid "Album saved."
+msgstr ""
+
+#: includes/albums/albums-class.php:715
+msgid "Album submitted."
+msgstr ""
+
+#: includes/albums/albums-class.php:716
+msgid "Album scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/albums/albums-class.php:719
+#. translators: Publish box date format, see http:php.net/date
+msgid "Album draft updated."
+msgstr ""
+
+#: includes/albums/albums-class.php:743 includes/albums/albums-class.php:893
+msgid "Album Shortcode"
+msgstr ""
+
+#: includes/albums/albums-class.php:802 includes/albums/albums-class.php:951
+msgid "Galleries"
+msgstr ""
+
+#: includes/albums/albums-class.php:836
+msgid "Save Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:839
+msgid "Update Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:842
+msgid "Save Album Draft"
+msgstr ""
+
+#: includes/albums/albums-class.php:1082 includes/albums/albums-class.php:1169
+msgid "Select All"
+msgstr ""
+
+#: includes/albums/albums-class.php:1122 includes/albums/albums-class.php:1202
+msgid "Images:"
+msgstr ""
+
+#: includes/albums/albums-class.php:1172
+msgid "Add Galleries to Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:1212
+msgid "No Galleries to add to this Album."
+msgstr ""
+
+#: includes/albums/albums-class.php:1419
+msgid "Save or Publish this Album to be able to copy this Album's Shortcode."
+msgstr ""
+
+#: includes/albums/albums-class.php:1426
+msgid "Copy and Paste this shortcode to any page, post or widget."
+msgstr ""
+
+#: includes/albums/albums-class.php:1446
+msgid "No Album to duplicate has been supplied!"
+msgstr ""
+
+#: includes/albums/albums-class.php:1575
+msgid "Duplicate Album"
+msgstr ""
+
+#: includes/albums/albums-class.php:1656
+msgid "Your Albums"
+msgstr ""
+
+#: includes/albums/albums-class.php:1659
+msgid "You do not currently have access to any albums"
+msgstr ""
+
+#: includes/emails/email-functions.php:27
+msgid "Title of the album"
+msgstr ""
+
+#: includes/emails/email-functions.php:32
+msgid "Adds a URL so clients can view their album directly on your website."
+msgstr ""
+
+#: includes/emails/email-functions.php:37
+msgid ""
+"Adds a non-linked URL so clients can view their album directly on your "
+"website."
+msgstr ""
+
+#: includes/emails/email-functions.php:118
+#: includes/emails/email-functions.php:173
+msgid "Your Album Details"
+msgstr ""
+
+#: includes/emails/email-functions.php:275
+#: includes/emails/email-functions.php:307
+msgid "Hey"
+msgstr ""
+
+#: includes/emails/email-functions.php:276
+msgid "Great news! Your album is ready for you to view."
+msgstr ""
+
+#: includes/emails/email-functions.php:277
+msgid ""
+"You can access your album using the details below. You'll need to set a "
+"password first..."
+msgstr ""
+
+#: includes/emails/email-functions.php:278
+msgid "Album URL:"
+msgstr ""
+
+#: includes/emails/email-functions.php:279
+msgid "Username:"
+msgstr ""
+
+#: includes/emails/email-functions.php:280
+msgid "Password:"
+msgstr ""
+
+#: includes/emails/email-functions.php:281
+#: includes/emails/email-functions.php:311
+msgid "Regards"
+msgstr ""
+
+#: includes/emails/email-functions.php:308
+msgid "Your album has been updated and is now ready for you to review."
+msgstr ""
+
+#: includes/emails/email-functions.php:309
+msgid "<a href=\"{album_url_path}\">Click here</a> to access your album."
+msgstr ""
+
+#: includes/emails/email-functions.php:310
+msgid "As a reminder, your username is <strong>{user_email}</strong>."
+msgstr ""
+
+#: includes/galleries/zip-gallery-class.php:474
+msgid ""
+"You have not created any ZIPs yet. You can do so from the %1$s Images "
+"tab%2$s. Please reload this page if you have already created a ZIP from the "
+"Images tab."
+msgstr ""
+
+#: includes/taxonomies/media-taxonomies.php:253
+msgid "All"
+msgstr ""
+
+#: includes/taxonomies/media-taxonomies.php:496
+msgid "Add"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:73
+msgid ""
+"The Image(s) are done uploading and all the Product(s) are now complete. "
+"Click the cart icon below on any image to edit that product or you can view "
+"the product(s) on the %1$sWooCommerce Products Page%2$s. Please refresh the "
+"page to edit images."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:77
+msgid "The other checked image(s) have existing products."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:79
+msgid ""
+"Image Product(s)%2$s created. Click the cart icon below on any image to "
+"edit that product or you can view them on the %3$sWooCommerce Products "
+"Page%4$s."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:85
+msgid "The items(s) you have checked already have Products created for them."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:86
+msgid "Edit Model Product"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:90
+msgid ""
+"Oops, to create products on upload please go to our %1$sWooCommerce tab%2$s "
+"and choose a Global Product or Smart Image Orientation Product. Once you "
+"have done that you can come back here and select the images that did not "
+"get products created for them and click the \"Create Individual Products\" "
+"button."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:167
+msgid "Global"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:172
+msgid "Landscape"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:177
+msgid "Square"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:182
+msgid "Portrait"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:187
+msgid "ZIP"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:191
+msgid ""
+"NOTE: A Zip Model Product must have the options %1$sVirtual%2$s AND "
+"%3$sDownloadable%4$s checked to appear in ZIP Model Product select option. "
+"No Download link is needed in product though as it will be auto-filled in "
+"when Feed Them Gallery creates a new ZIP product based on the ZIP's "
+"location."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:268
+#: includes/woocommerce/gallery_to_woo.php:323
+msgid "Select a Product"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:291
+#: includes/woocommerce/gallery_to_woo.php:349
+msgid "%1$sEdit Model Product%2$s"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:297
+#: includes/woocommerce/gallery_to_woo.php:355
+msgid "This Model Product has been deleted or in the trash."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:399
+msgid ""
+"A title for this Gallery must be set to attach WooCommerce image products "
+"to a category using the Gallery's name."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:443
+msgid ""
+"Are you sure you set prices for Variations for \"Model Product\" if not "
+"this wont work! Any Variations with without a price set will not be copied "
+"to newly created products"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:564
+msgid ""
+"No \"%1$sGlobal Image Model Product%2$s\" Found or selected. No products "
+"were created. Please select on the %3$sWooCommerce Tab.%4$s and try "
+"again.%5$s"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:573
+msgid ""
+"No \"%1$s%2$s Image Model Product%3$s\" Found or selected. Products were "
+"not created for this Smart Image Orientation type. Please select on the "
+"%4$sWooCommerce Tab%5$s and try again.%6$s"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:602
+msgid "No Images in this Gallery. Please upload images to use this feature"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:679
+msgid ""
+"ZIP Product created. You can see it on the %1$sWoocommerce Products "
+"Page%2$s."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:686
+msgid ""
+"This ZIP Product has already been created. You can see it on the "
+"%1$sWoocommerce Products Page%2$s."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:732
+msgid "Feed Them Gallery"
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:748
+msgid ""
+"Check the Model Product type(s) if you want this product to show up in the "
+"Model Product select options area in the WooCommece tab of a Feed Them "
+"Gallery."
+msgstr ""
+
+#: includes/woocommerce/gallery_to_woo.php:759
+msgid "Model Product"
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:52
+msgid "Plugin License"
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:163
+msgid "Plugin License Options"
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:166
+msgid ""
+"If you need more licenses or your key has expired, please go to the <a "
+"href='https://www.slickremix.com/my-account/' target='_blank'>MY "
+"ACCOUNT</a> page on our website to upgrade or renew your license.<br/>To "
+"get started follow the instructions below."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:170
+msgid ""
+"Install the zip file of the plugin you should have received after purchase "
+"on the <a href=\"plugin-install.php\">plugins page</a> and leave the free "
+"version active too."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:171
+msgid ""
+"Now Enter your License Key and Click the <strong>Save Changes "
+"button</strong>."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:172
+msgid "Finally, Click the <strong>Activate License button</strong>."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:213
+msgid "Enter your license key"
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:216
+msgid "Deactivate License"
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:218
+msgid "License Key Active."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:223
+msgid "Activate License"
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:224
+msgid "To receive updates notifications, please enter your valid license key."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:276
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:323
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:379
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:290
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:297
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:302
+msgid "Invalid license."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:308
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:313
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: updates/namespaced_EDD_SL_Plugin_Licence_Manager.php:318
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: updates/namespaced_updater_overrides.php:256
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: updates/namespaced_updater_overrides.php:264
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: updates/namespaced_updater_overrides.php:429
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: updates/namespaced_updater_overrides.php:429
+msgid "Error"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Feed Them Gallery Premium"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.slickremix.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extends Feed Them Gallery by adding Gallery ZIPPING, Tags, Pagination, Sort "
+"order, Image Protection (watermarking) and WooCommerce image/ZIP product "
+"creation."
+msgstr ""
+
+#: includes/taxonomies/media-taxonomies.php:480
+msgctxt "tag delimiter"
+msgid ","
+msgstr ""

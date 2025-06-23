@@ -1,0 +1,47 @@
+
+---Downloaded files---
+The import files for: Photograph Free were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://pja-photography.com
+Data file = /home/u154958445/domains/pja-photography.com/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/photograph/photograph.wordpress.xml
+Widget file = /home/u154958445/domains/pja-photography.com/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/photograph/photograph-widgets.wie
+Customizer file = /home/u154958445/domains/pja-photography.com/public_html/wp-content/plugins/theme-freesia-demo-import/files/dummy/photograph/photograph-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Imported
+Gallery - Latest Photograph - Imported
+photograph_tab_widgets - No Title - Site does not support widget
+
+Side Menu : 
+
+Gallery - Gallery - Imported
+
+Contact Page Sidebar : 
+
+Text - About Us - Imported
+Text - Our Address - Imported
+
+Iframe Code For Google Maps : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
